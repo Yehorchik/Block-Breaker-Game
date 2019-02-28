@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{8EF7FD2A-EA24-02BA-E337-8605DF5645B6}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/SceneLoader.cs">
+    <Files>
+      <File FileName="Assets/Scripts/LoseScript.cs" Line="11" Column="33" />
+      <File FileName="Assets/Scripts/Paddle.cs" Line="24" Column="28" />
+      <File FileName="Assets/Scripts/Ball.cs" Line="49" Column="6" />
+      <File FileName="Assets/Scripts/Level.cs" Line="23" Column="28" />
+      <File FileName="Assets/Scripts/Block.cs" Line="53" Column="72" />
+      <File FileName="Assets/Scripts/GameStatus.cs" Line="11" Column="45" />
+      <File FileName="Assets/Scripts/SceneLoader.cs" Line="8" Column="32" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
